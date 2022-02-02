@@ -1,0 +1,23 @@
+{
+  "name": "testnanodev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "email-validator": "^2.0.4",
+    "email-verifier": "^0.4.1",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.9",
+    "mongoose-unique-validator": "^3.0.0",
+    "multer": "^1.4.4",
+    "stripe": "^8.201.0"
+  }
+}
